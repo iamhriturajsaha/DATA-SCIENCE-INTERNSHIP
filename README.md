@@ -4,7 +4,7 @@ End-to-end machine learning projects covering classification, regression, NLP an
 
 ## 📹 Demo
 
-[![Watch the demo](https://youtu.be/6yPHzFgUxCs.jpg)](https://youtu.be/6yPHzFgUxCs)
+[![Watch the Demo](https://img.youtube.com/vi/6yPHzFgUxCs/maxresdefault.jpg)](https://youtu.be/6yPHzFgUxCs)
 
 ## 📂 Projects
 
@@ -82,5 +82,6 @@ End-to-end machine learning projects covering classification, regression, NLP an
 ## 🤝 Acknowledgements
 
 This project was completed as part of the **OASIS INFOBYTE Data Science Internship Program**.
+
 
 
