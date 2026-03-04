@@ -1,6 +1,6 @@
 # 📊Data Science Internship 
 
-> End-to-end machine learning projects covering classification, regression, NLP and data analysis — each deployed as an interactive Streamlit web application.
+End-to-end machine learning projects covering classification, regression, NLP and data analysis — each deployed as an interactive Streamlit web application.
 
 ## 📹 Demo
 
@@ -80,3 +80,4 @@
 ## 🤝 Acknowledgements
 
 This project was completed as part of the **OASIS INFOBYTE Data Science Internship Program**.
+
