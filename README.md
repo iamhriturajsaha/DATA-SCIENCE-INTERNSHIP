@@ -4,6 +4,8 @@ End-to-end machine learning projects covering classification, regression, NLP an
 
 ## 📹 Demo
 
+[![Watch the demo](https://youtu.be/6yPHzFgUxCs.jpg)](https://youtu.be/6yPHzFgUxCs)
+
 ## 📂 Projects
 
 ### 🌸 Task 1 — Iris Flower Classification
@@ -80,4 +82,5 @@ End-to-end machine learning projects covering classification, regression, NLP an
 ## 🤝 Acknowledgements
 
 This project was completed as part of the **OASIS INFOBYTE Data Science Internship Program**.
+
 
