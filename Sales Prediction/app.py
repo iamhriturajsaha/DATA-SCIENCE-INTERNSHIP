@@ -7,7 +7,6 @@ import plotly.express as px
 # Load model
 model = pickle.load(open("sales_model.pkl","rb"))
 scaler = pickle.load(open("scaler.pkl","rb"))
-
 st.set_page_config(
     page_title="AI Sales Prediction Dashboard",
     page_icon="📈",
